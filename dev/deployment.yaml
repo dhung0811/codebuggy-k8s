@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: codebuggy
-        image: dhung04/codebuggy:latest
+        image: dhung04/codebuggy:2343d8f
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
